@@ -1,9 +1,9 @@
 # Site settings
-title: KongOh Games
+title: "KongOh Games"
 email: kongohgames@gmail.com
 description: "KongOh Games is an independent game studio comprised of two members - Kenny Kong and Peter Oh. United by a love for b-boying, our mission is to bring the funk back to gaming. We use hip-hop, funk, and soul music as inspiration and hope to transport players to a time when big hair, outrageous sunglasses, and letting it loose on the dance floor was the thing to do."
 baseurl: ""
-url: "http://kongohgames.com"
+url: "http://www.kongohgames.com"
 facebook_username: "kongohgames"
 twitter_username: kongohgames
 github_username:  kongoh
