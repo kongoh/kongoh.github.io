@@ -148,6 +148,26 @@ a:visited { color: #205caa; }
 
 .home h1 { margin-bottom: 25px; }
 
+.home {
+  height:150vh;
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.home .section {
+  height:50vh;
+  margin-left:auto;
+  margin-right:auto;
+  text-align:center;
+}
+
+.home .section img {
+  width:100%;
+  max-height:100%;
+  margin-left:auto;
+  margin-right:auto;
+}
+
 .posts { list-style-type: none; }
 
 .posts li { margin-bottom: 30px; }
